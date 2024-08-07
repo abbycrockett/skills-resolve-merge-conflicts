@@ -1,4 +1,3 @@
-Joker
-Voldemort
-Captain Hook
-Jafar
+# References
+
+* octocat 1 😈
